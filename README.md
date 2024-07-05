@@ -1,4 +1,4 @@
-# Multi-Threaded Proxy Server with and without Cache
+# Multi-Threaded Proxy Server with Cache
 
 This project implements a multi-threaded proxy server in C, with LRU caching. The parsing of HTTP requests is inspired by existing proxy server implementations.
 
